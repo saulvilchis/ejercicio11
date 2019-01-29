@@ -1,0 +1,18 @@
+.logo img{
+    width: 80px;
+}
+.nav{
+    align-items: center;
+}
+.background{
+        background-color: aquamarine;
+
+}
+.iconos{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.proyectos{
+    padding: 30px 0;
+}
